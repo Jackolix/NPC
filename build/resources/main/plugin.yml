@@ -1,0 +1,11 @@
+name: PaperNPC
+version: 1.0
+main: codes.elix.papernpc.PaperNPC
+api-version: 1.19
+author: Elix
+description: A NPC plugin for Paper
+depend:
+   - ProtocolLib
+
+commands:
+   npc:

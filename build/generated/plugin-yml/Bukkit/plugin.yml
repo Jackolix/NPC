@@ -1,0 +1,8 @@
+name: PaperNPC
+version: 1.0.0-SNAPSHOT
+main: codes.Elix.papernpc.PaperNPC
+description: PaperNPC
+load: STARTUP
+authors:
+ - Author
+api-version: 1.18
